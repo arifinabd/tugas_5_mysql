@@ -1,0 +1,7 @@
+1. adalah kumpulan karakter yang bisa dipahami oleh komputer.
+2. Schema merupakan istilah lain dari database sehingga bisa digunakan sebagai perintah alternatif.
+3. SHOW CHARACTER SET;
+4. SHOW COLLATION;
+5. INT, BIGINT, DECIMAL, REAL, NUMERIC
+6. CHAR, VARCHAR, TEXT, TINYTEXT, MEDIUMTEXT
+7. DATE, TIME, YEAR
